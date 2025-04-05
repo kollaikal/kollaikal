@@ -31,7 +31,7 @@ My journey has taken me through diverse roles in **machine learning**, **data en
 
 ### 📫 How to reach me:
 - **LinkedIn**: [Kollaikal Rupesh](https://www.linkedin.com/in/kollaikalrupesh)
-- **Email**: [kollaikal.rupesh@email.com](mailto:kollaikalrupesh@gmail.com)
+- **Email**: [kollaikalrupesh@gmail.com](mailto:kollaikalrupesh@gmail.com)
 
 ### 😄 Pronouns:
 - He/Him
