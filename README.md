@@ -1,4 +1,4 @@
-## Hi there 👋, I'm Kollaikal Rupesh!
+## Hi there 👋! I'm Kollaikal Rupesh!
 
 Welcome to my GitHub profile! I'm an aspiring **AI Engineer**, **ML Engineer**, and **Product Manager** currently pursuing my Master's in **Business Analytics (MSBA)** at **UC Davis**. I specialize in building **AI-powered solutions**, **data-driven products**, and **scalable machine learning systems** to tackle real-world challenges.
 
