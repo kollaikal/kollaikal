@@ -43,15 +43,14 @@ With experience across **LLMs, RAG pipelines, ML infra, and backend APIs**, I en
 ### 📫 Let’s Connect
 
 - 🌐 [LinkedIn](https://linkedin.com/in/kollaikalrupesh)  
-- 📧 kollaikalrupesh@gmail.com  
-- 🌍 [Portfolio](http://codemia.xyz)
+- 📧 kollaikalrupesh@gmail.com
+- 🌍 [Portfolio](https://kollaikalrupesh.lovable.app)
 
 ---
 
 ### ⚡ Fun Fact
 
-I once built a smart waste management system using IoT sensors — it reduced collection costs by 25% while making cities cleaner. 🌱
-
+I once tried to build a mini AI tutor to teach my non-tech friends Python… they asked it to write breakup texts instead. Still counts as “real-world usage,” right?
 ---
 
 Thanks for dropping by — let’s build something meaningful with AI!
