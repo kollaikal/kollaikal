@@ -1,42 +1,57 @@
-## Hi there 👋! I'm Kollaikal Rupesh!
+# 👋 Hi there, I'm Kollaikal Rupesh!
 
-Welcome to my GitHub profile! I'm an aspiring **AI Engineer**, **ML Engineer**, and **Product Manager** currently pursuing my Master's in **Business Analytics (MSBA)** at **UC Davis**. I specialize in building **AI-powered solutions**, **data-driven products**, and **scalable machine learning systems** to tackle real-world challenges.
+I'm an **AI Engineer** and **Technical Product Builder** currently pursuing my Master’s in Business Analytics (MSBA) at UC Davis. I specialize in building real-time AI systems, LLM-powered tools, and data-driven products that solve high-impact problems across domains.
 
-My journey has taken me through diverse roles in **machine learning**, **data engineering**, and **product management**, and I'm passionate about using **data** and **technology** to drive innovation and business transformation. I believe in the power of **AI** and **ML** to optimize processes, enhance decision-making, and create intelligent, user-centered products.
+With experience across **LLMs, RAG pipelines, ML infra, and backend APIs**, I enjoy working at the intersection of **AI engineering and product strategy** — shipping scalable tools that make a difference.
 
-### 🔭 I’m currently working on:
-- Developing AI-driven tools to automate business processes, including **churn prediction** and **contract creation**.
-- Building end-to-end **data pipelines** that power scalable **machine learning models** and enhance business performance.
-- Collaborating with cross-functional teams to create impactful **data-driven products**.
+---
 
-### 🌱 I’m currently learning:
-- Deep learning techniques, especially in **reinforcement learning** and **computer vision**.
-- **Product management best practices**, focusing on translating technical solutions into impactful products.
-- Advanced **cloud technologies** and **big data frameworks** to scale AI and machine learning systems effectively.
+### 💡 What I’m Building
 
-### 👯 I’m looking to collaborate on:
-- **AI/ML** projects with a strong focus on **real-world applications** in fields like **healthcare**, **finance**, and **sustainability**.
-- Product development that combines **AI**, **ML**, and **data science** to solve complex business challenges.
-- **Open-source projects** that focus on creating **innovative, scalable solutions**.
+-  **PubMed Summarization AI Agent**: Containerized pipeline (no APIs) using Transformers + Dagger for fully local document summarization  
+-  **SEC Filing Summarizer**: LLM tool to extract insights from financial documents using GPT + FastAPI  
+-  **Fraud Detection Engine**: Transformer-embedded anomaly detection model with 91.8% precision  
+-  **Codemia**: AI-powered learning platform for code review and onboarding, built with OpenAI, Pinecone, and Docker — used by 250+ learners
 
-### 🤔 I’m looking for help with:
-- Best practices in **cloud-based machine learning deployment** and **model optimization**.
-- **AI/ML model interpretability** and ways to explain complex models to non-technical stakeholders.
-- Tips on **product management for AI/ML** projects, from defining roadmaps to working with engineers.
+---
 
-### 💬 Ask me about:
-- My experience working on **AI-powered projects** and the **product development lifecycle**.
-- Building scalable **machine learning systems** from the ground up.
-- How **data engineering** plays a crucial role in powering AI solutions.
+### Always Learning
 
-### 📫 How to reach me:
-- **LinkedIn**: [Kollaikal Rupesh](https://www.linkedin.com/in/kollaikalrupesh)
-- **Email**: [kollaikalrupesh@gmail.com](mailto:kollaikalrupesh@gmail.com)
+- LLM infrastructure, prompt tuning, and vector search optimization  
+- CI/CD for AI workloads (Dagger, Docker, GitHub Actions)  
+- Cross-functional collaboration in AI x product development
 
-### 😄 Pronouns:
-- He/Him
+---
 
-### ⚡ Fun fact:
-- I once built an **IoT-enabled smart waste management system** that reduced waste collection costs by 25%—saving resources while making the world a cleaner place! Link : ```https://www.youtube.com/watch?v=o-Ljh506-wE```
+### 🤝 Open To
 
-Feel free to browse through my repositories, explore my projects, or reach out for collaborations. I'm always open to discussing exciting ideas and innovations in **AI**, **machine learning**, and **data engineering**. Let's connect and create something impactful! 🚀
+- AI/ML Engineering roles  
+- LLM agent research and tooling  
+- Technical Product Management with ML focus  
+- Collaborations on high-impact open-source AI tools
+
+---
+
+### Ask Me About
+
+- Building AI tools with FastAPI, LangChain, Pinecone, and Docker  
+- Designing GTM loops for ML-based products  
+- Deploying ML agents with minimal infra overhead
+
+---
+
+### 📫 Let’s Connect
+
+- 🌐 [LinkedIn](https://linkedin.com/in/kollaikalrupesh)  
+- 📧 kollaikalrupesh@gmail.com  
+- 🌍 [Portfolio](http://codemia.xyz)
+
+---
+
+### ⚡ Fun Fact
+
+I once built a smart waste management system using IoT sensors — it reduced collection costs by 25% while making cities cleaner. 🌱
+
+---
+
+Thanks for dropping by — let’s build something meaningful with AI!
