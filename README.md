@@ -53,4 +53,4 @@ With experience across **LLMs, RAG pipelines, ML infra, and backend APIs**, I en
 I once tried to build a mini AI tutor to teach my non-tech friends Python… they asked it to write breakup texts instead. Still counts as “real-world usage,” right?
 ---
 
-Thanks for dropping by — let’s build something meaningful with AI!
+Thanks for dropping by - let’s build something meaningful with AI!
