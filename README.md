@@ -11,7 +11,7 @@ With experience across **LLMs, RAG pipelines, ML infra, and backend APIs**, I en
 -  **PubMed Summarization AI Agent**: Containerized pipeline (no APIs) using Transformers + Dagger for fully local document summarization  
 -  **SEC Filing Summarizer**: LLM tool to extract insights from financial documents using GPT + FastAPI  
 -  **Fraud Detection Engine**: Transformer-embedded anomaly detection model with 91.8% precision  
--  **Codemia**: AI-powered learning platform for code review and onboarding, built with OpenAI, Pinecone, and Docker — used by 250+ learners
+-  **Codemia**: AI-powered learning platform for code review and onboarding, built with OpenAI, Pinecone, and Docker; currently used by 250+ learners
 
 ---
 
