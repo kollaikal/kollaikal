@@ -44,7 +44,7 @@ With experience across **LLMs, RAG pipelines, ML infra, and backend APIs**, I en
 
 - 🌐 [LinkedIn](https://linkedin.com/in/kollaikalrupesh)  
 - 📧 kollaikalrupesh@gmail.com
-- 🌍 [Portfolio](https://kollaikalrupesh.lovable.app)
+- 🌍 [Portfolio](https://www.kollaikalrupesh.com)
 
 ---
 
