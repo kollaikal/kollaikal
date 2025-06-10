@@ -48,6 +48,8 @@ With experience across **LLMs, RAG pipelines, ML infra, and backend APIs**, I en
 
 ---
 
+[![Rupesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=kollaikal)](https://github.com/kollaikal/github-readme-stats)
+
 ### ⚡ Fun Fact
 
 I once tried to build a mini AI tutor to teach my non-tech friends Python… they asked it to write breakup texts instead. Still counts as “real-world usage,” right?
