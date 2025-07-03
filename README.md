@@ -1,56 +1,54 @@
-# 👋 Hi there, I'm Kollaikal Rupesh!
+# Hi, I'm Kollaikal Rupesh! 👋
 
-I'm an **AI Engineer** and **Technical Product Builder** currently pursuing my Master’s in Business Analytics (MSBA) at UC Davis. I specialize in building real-time AI systems, LLM-powered tools, and data-driven products that solve high-impact problems across domains.
+I’m an **AI Engineer & Forward Deployed Engineer** currently pursuing my **Master’s in Business Analytics (MSBA)** at UC Davis.
 
-With experience across **LLMs, RAG pipelines, ML infra, and backend APIs**, I enjoy working at the intersection of **AI engineering and product strategy** — shipping scalable tools that make a difference.
-
----
-
-### 💡 What I’m Building
-
--  **PubMed Summarization AI Agent**: Containerized pipeline (no APIs) using Transformers + Dagger for fully local document summarization  
--  **SEC Filing Summarizer**: LLM tool to extract insights from financial documents using GPT + FastAPI  
--  **Fraud Detection Engine**: Transformer-embedded anomaly detection model with 91.8% precision  
--  **Codemia**: AI-powered learning platform for code review and onboarding, built with OpenAI, Pinecone, and Docker; currently used by 250+ learners
+I specialize in building and deploying real-time AI systems and LLM-powered tools that solve complex business problems and create measurable impact at the customer edge.
 
 ---
 
-### Always Learning
+## 💡 What I’m Building & Deploying
 
-- LLM infrastructure, prompt tuning, and vector search optimization  
-- CI/CD for AI workloads (Dagger, Docker, GitHub Actions)  
-- Cross-functional collaboration in AI x product development
+- **PubMed Summarization AI Agent**  
+  Containerized, fully local pipeline using Transformers + Dagger — built for reliable document summarization without relying on external APIs.
 
----
+- **SEC Filing Summarizer**  
+  Developed an LLM-powered tool that extracts actionable insights from financial documents, deployed via GPT + FastAPI.
 
-### 🤝 Open To
+- **Fraud Detection Engine**  
+  Transformer-based anomaly detection model with 91.8% precision, integrated into scalable monitoring pipelines.
 
-- AI/ML Engineering roles  
-- LLM agent research and tooling  
-- Technical Product Management with ML focus  
-- Collaborations on high-impact open-source AI tools
-
----
-
-### Ask Me About
-
-- Building AI tools with FastAPI, LangChain, Pinecone, and Docker  
-- Designing GTM loops for ML-based products  
-- Deploying ML agents with minimal infra overhead
+- **Codemia**  
+  AI-powered coding learning platform built with OpenAI, Pinecone, and Docker; focused on real-time user feedback and rapid iteration, now used by 250+ learners.
 
 ---
 
-### 📫 Let’s Connect
+## 🔧 Core Strengths for Forward Deployment
 
-- 🌐 [LinkedIn](https://linkedin.com/in/kollaikalrupesh)  
-- 📧 kollaikalrupesh@gmail.com
-- 🌍 [Portfolio](https://www.kollaikalrupesh.com)
+- Deep expertise in building **scalable ML pipelines** using Python, Spark, and SQL  
+- Hands-on experience deploying **LLM integrations (LangChain, RAG)** and custom ML models in production  
+- Strong collaboration with customers and cross-functional teams to **tailor AI solutions to real-world workflows**  
+- Skilled in **fast prototyping, CI/CD for AI workloads (Dagger, Docker, GitHub Actions)**, and ML observability  
 
 ---
 
-### ⚡ Fun Fact
+## 🤝 Open To
 
-I once tried to build a mini AI tutor to teach my non-tech friends Python… they asked it to write breakup texts instead. Still counts as “real-world usage,” right?
+- Forward Deployed Engineer & Solutions Engineer roles  
+- ML system design, customer integration, and deployment  
+- Building developer-focused AI tooling and infrastructure  
+
 ---
 
-Thanks for dropping by - let’s build something meaningful with AI!
+## 📫 Let’s Connect
+
+[LinkedIn](https://www.linkedin.com/in/kollaikalrupesh) | [Portfolio](https://your-portfolio-url.com) | Email: kollaikalrupesh@gmail.com
+
+---
+
+## ⚡ Fun Fact
+
+I once built a mini AI tutor for my non-tech friends to learn Python — they mostly used it to write breakup texts. Real-world usage counts, right? 😄
+
+---
+
+Thanks for visiting! I’m passionate about turning AI research into impactful, customer-facing products — let’s build the future together.
