@@ -8,17 +8,17 @@ I specialize in building and deploying real-time AI systems and LLM-powered tool
 
 ## 💡 What I’m Building & Deploying
 
-- **PubMed Summarization AI Agent**  
-  Containerized, fully local pipeline using Transformers + Dagger — built for reliable document summarization without relying on external APIs.
+- **Codemia (Founder)**
+  AI-powered learning platform for code onboarding and review. Built using OpenAI, Pinecone, and Docker; deployed to early users (250+), with live vector search and real-time code feedback.
 
-- **SEC Filing Summarizer**  
-  Developed an LLM-powered tool that extracts actionable insights from financial documents, deployed via GPT + FastAPI.
+- **Clinical AI Agent – LangChain + RAG**
+  Built a biomedical QA agent using LangChain and HuggingFace models with an embedded retrieval pipeline. Achieved 88% EM accuracy and adopted by 3 clinical teams after live demo.
 
-- **Fraud Detection Engine**  
-  Transformer-based anomaly detection model with 91.8% precision, integrated into scalable monitoring pipelines.
+- **Churn Prediction System – Client-Facing ML**
+  Delivered a Python-based churn pipeline that surfaces at-risk users using behavioral patterns. Secured a 2-week customer pilot and integrated feedback loops into the model iteration process.
 
-- **Codemia**  
-  AI-powered coding learning platform built with OpenAI, Pinecone, and Docker; focused on real-time user feedback and rapid iteration, now used by 250+ learners.
+- **ZoomInfo GTM Analytics Pipelines**
+  Built Snowflake + Python-based modular pipelines for 310M+ firmographic records and 150M+ contact points. Supported 6+ GTM teams with real-time dashboards and ML signals, driving $1M+ in revenue.
 
 ---
 
