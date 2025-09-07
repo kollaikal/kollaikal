@@ -9,7 +9,7 @@ I specialize in building and deploying real-time AI systems and LLM-powered tool
 ## 💡 What I’m Building & Deploying
 
 - **Codemia (Founder)**
-  AI-powered learning platform for code onboarding and review. Built using OpenAI, Pinecone, and Docker; deployed to early users (250+), with live vector search and real-time code feedback.
+  AI-powered learning platform for code onboarding and review. Built using OpenAI, Pinecone, and Docker; deployed to early users, with live vector search and real-time code feedback.
 
 - **Clinical AI Agent – LangChain + RAG**
   Built a biomedical QA agent using LangChain and HuggingFace models with an embedded retrieval pipeline. Achieved 88% EM accuracy and adopted by 3 clinical teams after live demo.
