@@ -1,8 +1,8 @@
 # Hi, I'm Kollaikal Rupesh! 👋
 
-I’m an **AI Engineer & Forward Deployed Engineer** currently pursuing my **Master’s in Business Analytics (MSBA)** at UC Davis.
+I’m an AI Engineer & Forward Deployed Engineer | MS in Business Analytics (UC Davis).
 
-I specialize in building and deploying real-time AI systems and LLM-powered tools that solve complex business problems and create measurable impact at the customer edge.
+I specialize in building real-time AI systems and LLM-powered tools that solve complex business problems and create measurable impact at the customer edge.
 
 ---
 
