@@ -3,9 +3,9 @@
 ### AI Engineer & Forward Deployed Engineer
 *Bridging the gap between cutting-edge AI research and real-world customer impact.*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/your-profile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/kollaikalrupesh)
 [![Email](https://img.shields.io/badge/Email-Contact_Me-red?style=for-the-badge&logo=gmail)](mailto:kollaikalrupesh@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Site-black?style=for-the-badge&logo=vercel)](https://your-portfolio-link.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Site-black?style=for-the-badge&logo=vercel)](https://kollaikalrupesh.com)
 
 ---
 
