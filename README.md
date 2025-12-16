@@ -1,54 +1,83 @@
 # Hi, I'm Kollaikal Rupesh! 👋
 
-I’m an AI Engineer & Forward Deployed Engineer | MS in Business Analytics (UC Davis).
+### AI Engineer & Forward Deployed Engineer
+*Bridging the gap between cutting-edge AI research and real-world customer impact.*
 
-I specialize in building real-time AI systems and LLM-powered tools that solve complex business problems and create measurable impact at the customer edge.
-
----
-
-## 💡 What I’m Building & Deploying
-
-- **Codemia (Founder)**
-  AI-powered learning platform for code onboarding and review. Built using OpenAI, Pinecone, and Docker; deployed to early users, with live vector search and real-time code feedback.
-
-- **Clinical AI Agent – LangChain + RAG**
-  Built a biomedical QA agent using LangChain and HuggingFace models with an embedded retrieval pipeline. Achieved 88% EM accuracy and adopted by 3 clinical teams after live demo.
-
-- **Churn Prediction System – Client-Facing ML**
-  Delivered a Python-based churn pipeline that surfaces at-risk users using behavioral patterns. Secured a 2-week customer pilot and integrated feedback loops into the model iteration process.
-
-- **ZoomInfo GTM Analytics Pipelines**
-  Built Snowflake + Python-based modular pipelines for 310M+ firmographic records and 150M+ contact points. Supported 6+ GTM teams with real-time dashboards and ML signals, driving $1M+ in revenue.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/your-profile)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-red?style=for-the-badge&logo=gmail)](mailto:kollaikalrupesh@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Site-black?style=for-the-badge&logo=vercel)](https://your-portfolio-link.com)
 
 ---
 
-## 🔧 Core Strengths for Forward Deployment
+## 🚀 About Me
 
-- Deep expertise in building **scalable ML pipelines** using Python, Spark, and SQL  
-- Hands-on experience deploying **LLM integrations (LangChain, RAG)** and custom ML models in production  
-- Strong collaboration with customers and cross-functional teams to **tailor AI solutions to real-world workflows**  
-- Skilled in **fast prototyping, CI/CD for AI workloads (Dagger, Docker, GitHub Actions)**, and ML observability  
+I specialize in building **real-time AI systems** and **LLM-powered tools** that solve complex business problems. With an **MS in Business Analytics** from UC Davis, I combine technical depth in ML engineering with a sharp focus on business value and customer deployment.
 
----
-
-## 🤝 Open To
-
-- Forward Deployed Engineer & Solutions Engineer roles  
-- ML system design, customer integration, and deployment  
-- Building developer-focused AI tooling and infrastructure  
+- **Focus**: Turning AI research into deployed, customer-facing products.
+- **Core Stack**: Python, LangChain, RAG, Spark, SQL, Docker.
+- **Passion**: Fast prototyping, ML observability, and robust system design.
 
 ---
 
-## 📫 Let’s Connect
+## 🛠️ Tech Stack & Skills
 
-[LinkedIn](https://www.linkedin.com/in/kollaikalrupesh) | [Portfolio](https://your-portfolio-url.com) | Email: kollaikalrupesh@gmail.com
+| Area | Technologies |
+|:---:|:---|
+| **AI & LLMs** | LangChain, RAG, HuggingFace, OpenAI API, Vector Databases (Pinecone) |
+| **Data Engineering** | Apache Spark, SQL, Snowflake, ETL Pipelines |
+| **Backend & DevOps** | Python, Docker, GitHub Actions, CI/CD, FastAPI |
+| **Deployment** | ML System Design, ML Observability, Forward Deployment |
+
+---
+
+## 💡 What I'm Building
+
+### �️ **Hearing Uncertainty**
+> **Unsupervised Discovery of Hesitation in Speech**
+- **Raw speech → self-supervised audio embeddings.**
+- No labels; structure discovered via clustering and anomaly scoring.
+- Human-in-the-loop interpretation of uncertainty patterns.
+- Built for real-world voice interactions.
+
+### 👁️ **Seeing Confusion**
+> **Detecting Visual Hesitation Without Labels**
+- **Short video frames analyzed using pretrained vision encoders.**
+- Unsupervised discovery of hesitation cues (pauses, gaze, motion).
+- PCA-based visualization for interpretability.
+- Designed for noisy, unlabeled visual data.
+
+### 🧠 **Multimodal Signals of Uncertainty**
+> **Combined Audio and Vision for Human Interaction**
+- **Combines audio and vision embeddings into a shared space.**
+- Surfaces moments of hesitation without explicit supervision.
+- Focuses on representation learning over classification.
+- Practical pipeline for real-time systems.
+
+### � **From Raw Signals to Insight**
+> **Unsupervised ML for Human Uncertainty**
+- **Engineering-first approach with research intuition.**
+- Audio and vision processed as raw signals.
+- Pretrained encoders used as frozen feature extractors.
+- Anomaly detection highlights atypical behavior.
+
+---
+
+## 🤝 Open To Roles
+
+I am actively looking for opportunities where I can apply my skills in:
+- **Forward Deployed Engineer**
+- **Solutions Engineer (AI/ML)**
+- **ML System Design & Customer Integration**
+- **Developer AI Tooling**
 
 ---
 
 ## ⚡ Fun Fact
-
-I once built a mini AI tutor for my non-tech friends to learn Python — they mostly used it to write breakup texts. Real-world usage counts, right? 😄
+I once built a mini AI tutor for my non-tech friends to learn Python.
+*Result:* They mostly used it to generate breakup texts. Real-world usage is real-world usage, right? 😄
 
 ---
 
-Thanks for visiting! I’m passionate about turning AI research into impactful, customer-facing products — let’s build the future together.
+<p align="center">
+  <i>Let's build the future together.</i>
+</p>
