@@ -1,6 +1,6 @@
 # Hi, I'm Kollaikal Rupesh! 👋
 
-### AI Engineer & Forward Deployed Engineer
+### Founding AI Engineer & Forward Deployed Engineer
 *Bridging the gap between cutting-edge AI research and real-world customer impact.*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/kollaikalrupesh)
@@ -11,7 +11,7 @@
 
 ## 🚀 About Me
 
-I specialize in building **real-time AI systems** and **LLM-powered tools** that solve complex business problems. With an **MS in Business Analytics** from UC Davis, I combine technical depth in ML engineering with a sharp focus on business value and customer deployment.
+I specialize in building **real-time AI systems** and **LLM-powered tools** that solve complex business problems. I combine technical depth in ML engineering with a sharp focus on business value and customer deployment.
 
 - **Focus**: Turning AI research into deployed, customer-facing products.
 - **Core Stack**: Python, LangChain, RAG, Spark, SQL, Docker.
