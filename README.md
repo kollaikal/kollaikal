@@ -2,7 +2,7 @@
 
 **Founding AI Engineer · Voice AI · Forward Deployed**
 
-> *Building real-time AI systems that work at 3AM — not just in demos.*
+> *Building real-time AI systems that work at 3AM, not just in demos.*
 
 ---
 
@@ -35,5 +35,3 @@ Most of my recent work and open source contributions live at:
 **[github.com/kollaikal-rupesh](https://github.com/kollaikal-rupesh)**
 
 ---
-
-⚡ *I once built an AI tutor for my friends to learn Python. They mostly used it to generate breakup texts.*
