@@ -4,7 +4,6 @@
 
 > *Building real-time AI systems that work at 3AM, not just in demos.*
 
----
 
 ## 🚀 About Me
 
@@ -14,20 +13,17 @@ I specialize in production voice AI and LLM-powered systems — the kind that ha
 - 🔬 **Research:** Unsupervised detection of hesitation in speech and video — no labels, real signals
 - 📍 **San Francisco**
 
----
 
 ## 🛠️ Stack
 
 `Python` `Pipecat` `WebRTC` `LangChain` `RAG` `HuggingFace` `FastAPI` `Spark` `Docker`
 
----
 
 ## 📝 Writing
 
 - [Hardening Pipecat: A Month of Fixing What Matters](https://dev.to/kollaikal-rupesh) — dev.to
 - [The 2AM Call That Voice AI Developers Dread](https://medium.com/@kollaikal-rupesh) — Medium
 
----
 
 ## 🔗 Main Profile
 
